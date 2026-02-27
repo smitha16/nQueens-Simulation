@@ -1,4 +1,3 @@
-# nQueens-Simulation
 # N-Queens Simulation
 
 An interactive visualization of the N-Queens problem built with C and OpenGL (GLUT). Watch the backtracking algorithm solve the classic puzzle in real time on an N×N chessboard.
