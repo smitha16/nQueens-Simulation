@@ -82,11 +82,12 @@ Place N chess queens on an N×N chessboard so that no two queens threaten each o
 
 ```
 n-queens-simulation/
-├── Source.c                          # Main source file
-├── CG_Projexct_part2.vcxproj        # Visual Studio project file
-├── CG_Projexct_part2.vcxproj.filters
-├── CG_Projexct_part2.vcxproj.user
-└── README.md
+   ├──ProjectFiles/
+      ├── Source.c                          # Main source file
+      ├── CG_Projexct_part2.vcxproj         # Visual Studio project file
+      ├── CG_Projexct_part2.vcxproj.filters
+      ├── CG_Projexct_part2.vcxproj.user
+   └── README.md
 ```
 
 ---
