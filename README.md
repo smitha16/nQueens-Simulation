@@ -103,14 +103,3 @@ The solver uses **recursive backtracking with depth-first search**:
 - Time complexity: **O(N!)**
 
 ---
-
-## Built With
-
-- **C** — core language
-- **OpenGL** — 2D rendering
-- **GLUT / freeglut** — window management and input handling
-- **Win32 API** — Windows-specific utilities (`Sleep`, `_itoa_s`)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
