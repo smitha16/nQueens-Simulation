@@ -15,8 +15,8 @@ Place N chess queens on an N×N chessboard so that no two queens threaten each o
 ## Features
 
 - Interactive OpenGL rendering of the chessboard and queens
-- **Full Simulation mode** — watch the algorithm try positions in real time (conflicts highlighted in red, valid placements in green)
-- **Possible Solutions mode** — skip straight to viewing all valid solutions
+- **Full Simulation mode**: watch the algorithm try positions in real time (conflicts highlighted in red, valid placements in green)
+- **Possible Solutions mode**: skip straight to viewing all valid solutions
 - Choose board size N from **4 to 8** via right-click menu
 - Live solution counter displayed on screen
 
@@ -62,11 +62,11 @@ Place N chess queens on an N×N chessboard so that no two queens threaten each o
 
 ## How to Use
 
-1. **Launch** the application — an intro screen explains the problem
+1. **Launch** the application, an intro screen explains the problem
 2. **Right-click** to open the menu and select a value of N (4 through 8)
 3. The N×N chessboard appears — **right-click again** to choose a mode:
-   - **Full Simulation** — animated step-by-step backtracking
-   - **Possible Solutions** — displays only the final valid arrangements
+   - **Full Simulation**: animated step-by-step backtracking
+   - **Possible Solutions**: displays only the final valid arrangements
 4. Watch the solution counter increment as each valid placement is found
 
 ### Color Guide
