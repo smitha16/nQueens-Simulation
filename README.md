@@ -9,7 +9,7 @@ An interactive visualization of the N-Queens problem built with C and OpenGL (GL
 
 ## What is the N-Queens Problem?
 
-Place N chess queens on an N×N chessboard so that no two queens threaten each other — meaning no two queens share the same row, column, or diagonal. This project visualizes every step of finding all solutions using a **recursive backtracking** algorithm.
+Place N chess queens on an N×N chessboard so that no two queens threaten each other, meaning no two queens share the same row, column, or diagonal. This project visualizes every step of finding all solutions using a **recursive backtracking** algorithm.
 
 ---
 
